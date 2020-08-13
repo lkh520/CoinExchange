@@ -1,4 +1,4 @@
-# Crypto-Exchange / Coin-Exchange
+# lkh520 / Coin-Exchange
 
 #### 简要介绍
 
@@ -18,21 +18,10 @@
 
 一般而言，当交易所来往资金量不大的时候，你可以自己摸索，但是当交易所资金量大了以后，如果你对自己操作钱包不太放心，你也可以使用第三方的钱包服务，当然，这需要你与钱包服务商进行谈判，付个年费什么的。
 
-#### 系统架构概要
-
-随便画的一个草图，凑合看吧。。。
-![Framework整体说明](https://images.gitee.com/uploads/images/2020/0322/192334_8601c30c_2182501.png "微信截图_20200322192233.png")
-
-#### 开发参考
-
-开发参考文档：[https://gitee.com/cexchange/CoinExchange/blob/master/DEVELOP.md](https://gitee.com/cexchange/CoinExchange/blob/master/DEVELOP.md)
-
-管理后台截图：[https://gitee.com/cexchange/CoinExchange/tree/master/09_DOC/%E7%AE%A1%E7%90%86%E5%90%8E%E5%8F%B0%E8%BF%90%E8%A1%8C%E6%88%AA%E5%9B%BE](https://gitee.com/cexchange/CoinExchange/tree/master/09_DOC/%E7%AE%A1%E7%90%86%E5%90%8E%E5%8F%B0%E8%BF%90%E8%A1%8C%E6%88%AA%E5%9B%BE)
-
 #### 系统运行环境
 
 1.  Centos 6.8
-2.  MySQL 5.5.16
+2.  MySQL 8.0.16
 3.  Redis-x64-3.2.100
 4.  Mongodb 3.6.13
 5.  kafka_2.11-2.2.1
